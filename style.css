@@ -1,0 +1,112 @@
+body
+{
+    margin: 0;
+    font-family: Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #fff;
+    text-align: left;
+    background-color: #000;
+}
+    
+nav{
+    background-color: black;
+    border-bottom: 1.5px solid greenyellow;
+    width: 100%;
+}
+.searchbox{
+    background: #222;
+    border: 0;
+    border-radius: 10px;
+    color: #888;
+    font-size: 16px;
+    min-height: 40px;
+    outline: none;
+    padding-left: 30px;
+    width: 100%;
+
+}
+.row2
+{
+    
+    background-color:#555;
+    text-align: center;
+    color: #fff;
+    margin-top:80px;
+    
+}
+.row2 a
+{
+    color: #fff;
+    padding-top: 3px;
+}
+.b1
+{
+    display: flex;
+    justify-content:center
+}
+.link-light
+{
+    text-align: center;
+    display: block;
+    padding-left: 10px;
+}
+
+.bg-image
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.slogan
+{
+    font-family: RazerF5, Arial;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    color: #44d62c;
+    padding-right: 0.4rem;
+    padding-bottom: 0.25rem;
+}
+.container1
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color: #000;
+    line-height: 40px;
+    
+}
+
+
+
+.lineDivider {
+    border-bottom: 5px solid #555;
+    margin: 1rem 0;
+    
+    
+}
+
+
+ul li a
+{
+    text-decoration: none;
+    color:#888
+}
+ul li a:hover
+{
+    color:#44d62c;
+}
+.legal-terms ul li
+{
+display: inline;
+
+}
+.location-selector a
+{
+color:#fff
+}
+.location-selector a:hover
+{
+    color:#44d62c
+}
